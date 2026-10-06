@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Yerba-cc/459f340fabfa2d997cc088f0806ada5a/raw/36ff94e8ad5c6e52fbd5f401e8b0ec0faf12e614/gistfile1.txt"))()
